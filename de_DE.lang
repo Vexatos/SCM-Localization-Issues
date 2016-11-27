@@ -1,7 +1,7 @@
 itemGroup.rscircuits=Super Circuit Maker
 item.rscircuits:circuit.name=Redstone-Schaltkreis
 item.rscircuits:resource.pile_of_redstone.name=Winziges Häufchen Redstone
-item.rscircuits:resource.quartz_resonator.name=Quarz
+item.rscircuits:resource.quartz_resonator.name=Quarz-Resonator
 item.rscircuits:resource.energized_glowstone.name=Glowstone-Erreger
 item.rscircuits:resource.tiny_lamp.name=Miniaturlampe
 item.rscircuits:resource.ender_pulsar.name=Ender-Pulsar
